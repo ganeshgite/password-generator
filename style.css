@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.container {
+  width: 100vw;
+  height: auto;
+  padding: 20px;
+
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+    margin-bottom: 100px;
+    padding: 20px;
+  width: 100vw;
+  background-color: aliceblue;
+  text-align: center;
+  width:50vw
+ 
+}
+.box  h1{
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
